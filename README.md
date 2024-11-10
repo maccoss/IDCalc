@@ -11,7 +11,7 @@ IDCalc was developed to provide a simple way to view the expected isotope distri
 
 **Algorithm:** The algorithm for predicting the isotope distribution is based on the approach reported by Kubinyi, *Analytica Chimica Acta*, 247 (1991) 107-119. The C, H, O, and N isotope abundances are specific to biological molecules (Dwight E. Matthews personal communication). All other elemental isotope abundances were obtained from Biemann, *Mass Spectrometry, Organic Chemical Applications*, McGraw-Hill New York, 1962, p.59
 
-**Download:** You can get a zip that contains a compiled version and libraries [here](https://github.com/maccoss/IDCalc/blob/main/executable/IDCalc.zip).
+**Download:** You can get a zip that contains a compiled version and libraries [here](/executable/IDCalc.zip).
 
 **Installation:** In the zip there should be two files.  1) IDCalc.exe and 2) COMDLG32.OCX
 
