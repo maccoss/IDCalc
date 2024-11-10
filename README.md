@@ -24,3 +24,5 @@ You then need to register that library.  From the command line you can do that b
 
     For Windows 32-bit systems:
     regsvr32  C:\Windows\System32\COMDLG32.OCX
+
+You should be able to run the program by double clicking on IDCalc.exe
