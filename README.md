@@ -2,7 +2,7 @@
 
 Written by Michael J. MacCoss, Department of Genome Sciences, University of Washington
 
-IDCalc was developed to provide a simple way to view the expected isotope distribution  or biological molecules measured by mass spectrometry. The program also includes the the ability to consider enriched stable isotopes. The code was written a long time ago in VB6. At some point it will need to be updated and modernized.
+IDCalc was developed to provide a simple way to view the expected isotope distribution  or biological molecules measured by mass spectrometry. The program also includes the the ability to consider enriched stable isotopes. This program was written a long time ago in VB6. At some point it will need to be updated and modernized.
 
 **Input:** Input is either as a peptide sequence or an elemental composition through the graphical user interface.
 
